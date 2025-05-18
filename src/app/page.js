@@ -6,7 +6,7 @@ export default function Home() {
         We help businesses automate repetitive tasks and build reliable, full stack solutions — fast.
       </p>
       <p>
-        Whether it's backend APIs, frontend interfaces, or full system integrations, we offer scalable development tailored to your goals.
+        Whether it&apos;s backend APIs, frontend interfaces, or full system integrations, we offer scalable development tailored to your goals.
       </p>
       <p>
         Ready to build something together?

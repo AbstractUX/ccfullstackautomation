@@ -2,7 +2,7 @@ import "./globals.css";
 import Nav from "../components/Nav";
 
 export const metadata = {
-  title: "CC Fullstack Automation",
+  title: "CC Full Stack Automation",
   description: "Automation solutions for your business.",
 };
 
@@ -14,7 +14,7 @@ export default function RootLayout({ children }) {
           <Nav />
           <main style={mainStyle}>{children}</main>
           <footer style={footerStyle}>
-            &copy; {new Date().getFullYear()} CC Fullstack Automation. All rights reserved.
+            &copy; {new Date().getFullYear()} CC Full Stack Automation LLC. All rights reserved.
           </footer>
         </div>
       </body>
