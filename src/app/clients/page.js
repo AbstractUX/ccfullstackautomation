@@ -9,6 +9,7 @@ export default function Clients() {
         <li>Globant</li>
         <li>Medicasoft</li>
         <li>Harvest</li>
+        <li>... and many more!</li>
       </ul>
     </main>
   );

@@ -24,7 +24,6 @@ export default function Nav() {
       <Link href="/about" style={linkStyle}>About</Link>
       <Link href="/services" style={linkStyle}>Services</Link>
       <Link href="/contact" style={linkStyle}>Contact</Link>
-      <Link href="/clients" style={linkStyle}>Clients</Link>
     </nav>
   );
 }
